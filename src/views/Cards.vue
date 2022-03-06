@@ -228,7 +228,7 @@ export default {
     background-color: $parrot-green;
     &-active {
       width: 16px;
-      opacity: 100%;
+      opacity: 1;
       background-color: $parrot-green;
     }
   }

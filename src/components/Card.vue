@@ -41,7 +41,7 @@ export default {
 <style lang="scss" scoped>
 @import "~@/styles/color";
 .is-freeze {
-  opacity: 50%;
+  opacity: 0.5;
 }
 .card {
   position: relative;
