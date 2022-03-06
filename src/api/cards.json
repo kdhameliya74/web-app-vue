@@ -1,0 +1,26 @@
+[
+  {
+    "card_holder": "John Doe",
+    "number": "111122233334444",
+    "expiry": "12/25",
+    "isFreeze": false 
+  },
+  {
+    "card_holder": "Marco Escobar",
+    "number": "111122233333333",
+    "expiry": "10/30",
+    "isFreeze": false
+  },
+  {
+    "card_holder": "Pauly Escobar",
+    "number": "111122233335555",
+    "expiry": "09/26",
+    "isFreeze": false
+  },
+  {
+    "card_holder": "Jason Paul",
+    "number": "111122233336666",
+    "expiry": "04/28",
+    "isFreeze": false
+  }
+]
